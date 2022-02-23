@@ -8,7 +8,7 @@ window.addEventListener("load",function(){
 function audioOnPlay ()
 {
   let sound = document.createElement("iframe");
-	sound.setAttribute("src","assets/audio/Direct to your brain.wav");
+	sound.setAttribute("src","assets/audio/Direct to your brain.mp3");
 	document.body.appendChild(sound);
 	document.getElementById("play").removeEventListener("click",audioOnPlay);
 }
