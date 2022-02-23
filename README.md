@@ -9,8 +9,6 @@ The goal of this project has been to learn how to adapt from a single file code 
 
 ## GitHub Repositories 🚀
 
-- [Smileys & Emotion](#smileys--emotion)
-
 If you are interested in the code, whould visit our repositories:
 
 https://github.com/SergiFuentes/pandemic_Invaders
