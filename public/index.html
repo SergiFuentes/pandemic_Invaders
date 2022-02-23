@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SupaSpace-Pandemic-Invaders</title>
+    <link rel="stylesheet" href="../src/css/styles.css" />
+  </head>
+
+  <body>
+    <p id="score"><span>Score: </span><span id="scoreEl"></span></p>
+    
+    <div id="playerLives">
+      <span>Lives: </span><span id="actualLives"></span>
+    </div>
+
+    <p id="wave"><span id="waveNumber"></span><span>Wave</span></span></p>
+    
+    <div id="playerShips"></div>
+    
+    <p id="gameOver"></p>
+    <p id="gameInit"></p>
+
+    <a id="buttonStart"></a>
+    <a id="buttonAgain"></a>
+    <p id="extraLive"></p>
+
+    <div id="supaSound">
+      <span id="play">play</span>
+      <span id="stop">stop</span>
+    </div>
+
+    <div id="playPause">
+      <span id="playPauseButton"></span>
+    </div>
+
+    <div>
+      <canvas id="canvas"></canvas>
+    </div>
+  </body>
+  </html>
+  <script type="module" src="../src/js/index.js"></script>
+  <!-- <script type="text/javascript" src="./modules/startGame.mjs"></script> -->
+

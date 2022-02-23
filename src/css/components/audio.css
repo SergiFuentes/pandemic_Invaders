@@ -1,0 +1,30 @@
+#play,#stop{
+  position: fixed;
+	display:inline-block;
+	padding:16px;
+	border:1px solid #000;
+	border-radius
+	:5px;
+  font-family: 'Fascinate';
+  cursor: pointer;
+  color: orangered;
+}
+
+#play {
+  left: 10px;
+  bottom: 10px;
+}
+
+#stop {
+  left: 85px;
+  bottom: 10px;
+}
+
+#stop:hover{
+  background-color: orange;
+}
+#play:hover{
+  background-color: orange;
+}
+
+iframe{display:none;}
