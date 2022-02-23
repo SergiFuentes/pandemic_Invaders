@@ -7,6 +7,16 @@ https://www.youtube.com/watch?v=MCVU0w73uKI
 
 The goal of this project has been to learn how to adapt from a single file code to a more structured one with files and folders to better distinguish the functions and classes that are executed and to incorporate new functionalities not described in the original video tutorial (See Extra Features).
 
+## GitHub Repositories 🚀
+
+If you are interested in the code, whould visit our repositories:
+
+https://github.com/SergiFuentes/match-app-back-end
+
+These instructions will allow you to get a working copy of the project on your local computer for development and testing purposes:
+**Open terminal** and run the following command to download the project:
+
+$ git clone https://github.com/SergiFuentes/pandemic_Invaders.git
  
 
 ## Extra Features 🚀
