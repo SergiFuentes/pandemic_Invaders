@@ -52,6 +52,7 @@ $ git clone https://github.com/SergiFuentes/pandemic_Invaders.git
 ## Pending Tasks 🛠️
 
 * I know, i know... it should be the first thing to do... testing in progess!!! 😵‍💫
+* I know, i know... it should be the first thing to do...too... movile-first in second progess!!! 😵‍💫
 * Add a gamer Hi-Score section 🕹️🥳🎮
 * Add more levels
 * Add other invaders and projectiles 🛸
