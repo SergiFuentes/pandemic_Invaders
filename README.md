@@ -67,7 +67,6 @@ $ git clone https://github.com/SergiFuentes/pandemic_Invaders.git
 ## Author ✒️
 
 * [SergiFuentes](https://github.com/SergiFuentes)
-[top](#smileys--emotion)
  
 ## Acknowledgements 🎁
 
